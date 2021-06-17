@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor",
+    "image": "https://en.wikichip.org/w/images/4/4e/amd_ryzen_7_logo.png",
+    "price": "429.00",
+    "stars": "5"
+  },
+  {
+    "id": "2",
+    "name": "SAMSUNG T5 Portable SSD 1TB - Up to 540MB/s - USB 3.1 External Solid State Drive, Black (MU-PA1T0B/AM)",
+    "image": "https://images.samsung.com/is/image/samsung/ro-860-evo-sata-3-2-5-ssd-mz-76e250b-eu-frontblack-89214576?$684_547_PNG$",
+    "price": "119.99",
+    "stars": "4"
+  },
+  {
+    "id": "3",
+    "name": "Seagate BarraCuda 2TB Internal Hard Drive HDD – 3.5 Inch SATA 6Gb/s 7200 RPM 256MB",
+    "image": "https://m.media-amazon.com/images/I/71Czt9ypIbL._AC_UL320_.jpg",
+    "price": "55.95",
+    "stars": "3"
+  },
+  {
+    "id": "4",
+    "name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz C16 Desktop Memory Kit - Black",
+    "image": "https://m.media-amazon.com/images/I/51kHiPeTSmL._AC_UL320_.jpg",
+    "price": "102.99",
+    "stars": "5"
+  },
+  {
+    "id": "5",
+    "name": "CanaKit Raspberry Pi 4 8GB Starter Kit - 8GB RAM",
+    "image": "https://m.media-amazon.com/images/I/817DclokSqL._AC_UL320_.jpg",
+    "price": "120.99",
+    "stars": "5"
+  },
+  {
+    "id": "6",
+    "name": "Crucial MX500 500GB 3D NAND SATA 2.5 Inch Internal SSD, up to 560MB/s - CT500MX500SSD1",
+    "image": "https://m.media-amazon.com/images/I/81w0f+QufZL._AC_UL320_.jpg",
+    "price": "55.99",
+    "stars": "5"
+  }
+]
